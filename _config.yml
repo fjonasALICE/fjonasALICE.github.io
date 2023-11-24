@@ -280,6 +280,7 @@ scholar:
 
   source: /_bibliography/
   bibliography: papers.bib
+  secondarybib: talk.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -300,7 +301,7 @@ scholar:
 # Display different badges withs stats for your publications
 enable_publication_badges:
   altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
-  dimensions: false # Dimensions badge (https://badge.dimensions.ai/)
+  dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
