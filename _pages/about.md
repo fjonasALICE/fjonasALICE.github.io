@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral Scholar at the <a href='https://www.berkeley.edu'>University of California Berkeley</a> and <a href='https://www.lbl.gov'>Lawrence Berkeley National Laboratory</a> affiliate
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: FlorianPortrait.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -19,4 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This is a test
+Hello I am Florian Jonas, a particle physicist stationed at [CERN](https://home.web.cern.ch/), Switzerland. I am currently a Postdoctoral Scholar at the [University of California Berkeley](https://www.berkeley.edu) and affiliate at the [Lawrence Berkeley National Laboratory](https://www.lbl.gov). I did my PhD research with the [University of Münster](https://www.uni-muenster.de/Physik.KP/AGAndronic/en/ag/andronic.shtml), Germany in collaboration with the [Oak Ridge National Laboratory](https://www.ornl.gov/).
+
+I am mostly involved in large-scale data analysis, using HPC to analyse data produced by the [ALICE experiment](https://alice-collaboration.web.cern.ch/) in order to answer various physics questions (see my recent publications). I am also part of the [JETSCAPE Collaboration](https://jetscape.org) with the goal to develop a systematic and rigorous undertanding of relativistic heavy-ion collisions. My daily job consists of writing code in C++, discussing and/or presenting physics results at weekly meetings or conferences in an international working environment as well as QA work for detectors currently in operation. I am also an admin for a small computing cluster (distributed FS with ceph and job management with slurm) which is used by various people within our working group for their daily work.
+
+Outside of work I enjoy roadbiking, good movies and good books. I also recently got more and more interested in personal finance and financial topics in general. 
