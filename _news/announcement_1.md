@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First rought version of website online!
+First rough version of website online! :rocket:

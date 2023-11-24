@@ -9,7 +9,7 @@ profile:
   image: FlorianPortrait.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>CERN B587/R-011</p>
+    <p>stationed at CERN</p>
     <p>Espl. des Particules 1</p>
     <p>Meyrin, Switzerland</p>
 
