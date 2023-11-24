@@ -6,7 +6,7 @@ subtitle: Postdoctoral Scholar at the <a href='https://www.berkeley.edu'>Univers
 
 profile:
   align: right
-  image: FlorianPortrait.jpg
+  image: FlorianPortrait.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
