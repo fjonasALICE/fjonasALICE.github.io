@@ -11,66 +11,42 @@
 - title: Education
   type: time_table
   contents:
-    - title: Doctor of Natural Science (Physics)
+    - title: PhD
       institution: University of Muenster, Germany
       year: 2023
       description:
-        - with distinction (summa cum laude)
-        - title: Probing the initial state of heavy-ion collisions with isolated prompt photons
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
           contents:
-            - supervision: C. Loizides, C. Klein-Boesing, A. Andronic
-            - stationed at CERN
-    - title: Master of Science (Physics)
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Master of Science
       institution: University of Muenster, Germany
       year: 2018
       description:
-        - Measurement of omega and eta mesons via their three pion decay with ALICE in pp collisions at sqrt(s) = 7 TeV
-    - title: Bachelor of Science (Physics)
-        institution: University of Muenster, Germany
-        year: 2016
-        description:
-        - Simulations for optimization of omega reconstruction at ALICE
-
+        - Description 1.
+        - Description 2.
+    - title: Bachelor of Science
+      institution: University of Muenster, Germany
+      year: 2016
+      description:
+        - Description 1.
+        - Description 2.
 - title: Experience
   type: time_table
   contents:
-    -title: Coming soon
-    # - title: Professor of Theoretical Physics
-    #   institution: Institute for Advanced Study, Princeton University
-    #   year: 1933 - 1955
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
-    #     - title: Description 3.
-    #       contents:
-    #         - Sub-description 1.
-    #         - Sub-description 2.
-    # - title: Visiting Professor
-    #   institution: California Institute of Technology, Pasadena, California, US
-    #   year: 1933
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
+    - title: Postdoctoral Scholar
+      institution: Iniversity of California Berkeley
+      year: 2023 - present
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
 
-    # - title: Director
-    #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-    #   year: 1917-1933
-
-    # - title: Professor of Theoretical Physics
-    #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
-    #   year: 1911 - 1917
-    #   description:
-
-    # - title: Associate Professor of Theoretical Physics
-    #   institution: University of Zurich, Zurich, Switzerland
-    #   year: 1909 - 1911
-
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 # - title: Honors and Awards
 #   type: time_table
@@ -95,7 +71,7 @@
 #         - Description 1.
 #         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
