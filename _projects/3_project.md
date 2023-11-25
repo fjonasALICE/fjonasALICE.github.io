@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
+title: Measuring heavy neutral mesons with the ALICE experiment
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/eventdisplay.png
 importance: 3
-category: work
+category: ALICE
 ---
 
 Every project has a beautiful feature showcase page.

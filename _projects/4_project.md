@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: JETSCAPE
+description: Analysis data of heavy-ion collisions using Bayesian inference
+img: assets/img/jetscape_home_logo.jpg
+redirect: https://jetscape.org
 importance: 3
-category: fun
+category: JETSCAPE
 ---
 
 Every project has a beautiful feature showcase page.

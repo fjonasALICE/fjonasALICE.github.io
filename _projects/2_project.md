@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
+title: The ALICE Forward Calorimeter (FoCal)
 description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+img: assets/img/FoCalTB_prototype.png
 importance: 2
-category: work
+category: ALICE
 giscus_comments: true
 ---
 
