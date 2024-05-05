@@ -24,6 +24,8 @@ ENV LANG=en_US.UTF-8 \
     JEKYLL_ENV=production
 
 # install jekyll and dependencies
+
+RUN gem update
 RUN gem install jekyll bundler
 
 RUN mkdir /srv/jekyll
@@ -32,7 +34,10 @@ ADD Gemfile /srv/jekyll
 
 WORKDIR /srv/jekyll
 
-RUN bundle install --no-cache
+RUN gem uninstall --all mini_racer libv8-node
+RUN bundle lock --add-platform arm64-darwin
+# RUN bundle install --no-cache
+RUN bundle install
 # && rm -rf /var/lib/gems/3.1.0/cache
 EXPOSE 8080
 
