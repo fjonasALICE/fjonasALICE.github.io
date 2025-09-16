@@ -41,9 +41,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Fellow (EP)
+      institution: CERN
+      year: 2025 - now
+      location: Geneva, CH
     - title: Postdoctoral Scholar
       institution: University of California Berkeley / LBNL
-      year: 2023 - now
+      year: 2023 - 2025
       location: Geneva, CH
     - title: Scientific Assistant
       year: 2018-2023
