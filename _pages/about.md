@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Scholar at the <a href='https://www.berkeley.edu'>University of California Berkeley</a> and <a href='https://www.lbl.gov'>Lawrence Berkeley National Laboratory</a>
+subtitle: Research Fellow at <a href='https://home.web.cern.ch/'>CERN</a>
 
 profile:
   align: right
